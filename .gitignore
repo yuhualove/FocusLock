@@ -1,0 +1,20 @@
+# 编译生成的文件
+*.exe
+*.dll
+*.pdb
+*.obj
+*.cache
+bin/
+obj/
+
+# 用户配置
+config.xml
+
+# IDE
+.vs/
+*.suo
+*.user
+
+# 系统
+Thumbs.db
+.DS_Store
